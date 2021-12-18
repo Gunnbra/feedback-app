@@ -9,5 +9,10 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="@types/reach__router" level="application" />
+    <orderEntry type="library" name="@types/react-document-meta" level="application" />
+    <orderEntry type="library" name="@types/react-native" level="application" />
+    <orderEntry type="library" name="@types/react" level="application" />
+    <orderEntry type="library" name="@types/react" level="application" />
   </component>
 </module>
